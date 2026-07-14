@@ -1,4 +1,3 @@
-# Student-Data-Management-LinkedList
 # Student Data Management Using Linked List
 
 ## Description
